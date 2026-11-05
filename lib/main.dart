@@ -29,7 +29,7 @@ class KnowmeApp extends StatelessWidget {
           foregroundColor: Colors.white,
           centerTitle: false,
         ),
-        cardTheme: CardTheme(
+        cardTheme: CardThemeData(
           color: panel,
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(18),
